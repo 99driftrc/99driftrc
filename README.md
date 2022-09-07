@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @99driftrc
+- 👀 I’m interested in build new drift cars and parts, including software's to help the process
+- 🌱 I’m currently learning C and G-CODE
+- 📫 How to reach me 99rcdrift@gmail.com
